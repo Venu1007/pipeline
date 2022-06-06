@@ -1,0 +1,3 @@
+#! bin/sh
+echo "adding"
+read $a + $b
